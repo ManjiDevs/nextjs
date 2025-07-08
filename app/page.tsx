@@ -25,7 +25,7 @@ export default function Home() {
           priority
         />
         <p className="text-lg font-bold">
-          🎲 Random number: {random !== null ? random : "Loading..."}
+           Random number: {random !== null ? random : "Loading..."}
         </p>
         {/* ... your existing content */}
       </main>
